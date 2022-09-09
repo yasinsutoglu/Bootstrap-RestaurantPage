@@ -24,11 +24,13 @@
 Restaurant Page (folder)
 |
 |----readme.md             
-|----images            
+|----img            
 |----solution
         |----index.html  
 |----css      
-      |----style.css 
+      |----style.css
+|----lib
+      |---fslightbox.js
 ```
 
 <!-- --------------------------------------- -->
